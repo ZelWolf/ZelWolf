@@ -3,7 +3,7 @@
 
 ```bash
 Online alias: ZelWolf
-Zea in pursuit, a wolf by nature.
+Zeal in pursuit, a wolf by nature.
 ```
 **AI/ML Engineer** · LLM security, RAG pipelines, and transformer models
 
