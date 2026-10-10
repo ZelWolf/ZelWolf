@@ -51,13 +51,13 @@ A dual-layer middleware between applications and LLM providers:
 
 | Area | Tools |
 |------|-------|
-| Language | Python |
+| Language | Python, SQL, Bash |
 | LLM & RAG | LangChain, LangGraph, ChromaDB, FastEmbed, Groq API |
 | Deep Learning | PyTorch, Hugging Face Transformers |
 | Backend & Deployment | FastAPI, Pydantic, Uvicorn, Docker, SQLAlchemy |
 | Security & NLP | Microsoft Presidio, spaCy |
 | Data & Dashboards | Pandas, NumPy, Streamlit, Altair |
-
+| Cloud | Microsoft Azure
 ## Connect
 
 - LinkedIn: [in/ananaychaudhry](https://www.linkedin.com/in/ananaychaudhry)
