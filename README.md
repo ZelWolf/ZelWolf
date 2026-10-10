@@ -10,7 +10,7 @@ I build AI systems that are measurable and production-minded: services with clea
 ## Featured Project
 
 
-### [AI Trust Gateway (Sentinel)](https://github.com/ZelWolf/ai-trust-gateway)
+### [Sentinel AI Trust Gateway](https://github.com/ZelWolf/ai-trust-gateway)
 *A policy-aware security gateway that inspects, redacts, and blocks risky prompts before they reach an LLM.*
 
 
